@@ -1,1 +1,1 @@
-# Chainpals-Token-Smart-Contract
+# Chainpals-Smart-Contract
