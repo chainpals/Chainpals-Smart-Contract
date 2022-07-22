@@ -1,6 +1,6 @@
 ![1500x500](https://user-images.githubusercontent.com/105769583/180224186-105d89a4-61f5-4ccb-b453-6d9cc652da12.jpg)
 # Chainpals
-Trade worry free with Chainpals.
+Secure Crypto Payments.
 # What is Chainpals?
 Chainpals is the platform that helps you to carry out your crypto payments securely. You can do instant transactions or milestone-based transactions with Chainpals. In case of any issues, you can raise a dispute & get a resolution. Chainpals enable safe & secured payment solutions using smart contracts & blockchain technology.
 # Different Types of Payments
